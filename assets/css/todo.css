@@ -9,8 +9,8 @@ div {
 
 
 .crossed {
-    color: grey;
-    text-decoration: line-through;
+   / * color: grey;
+    text-decoration: line-through; * /
 }
 
 h1 {
